@@ -3,7 +3,7 @@
 What is Voty Protocol?
 
 - A decentralized permissionless voting system designed for communities.
-- Whole-process transparency and immutable (based on Arweave).
+- Whole-process transparency and immutable.
 
 ## VIPs
 
