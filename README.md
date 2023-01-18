@@ -14,7 +14,7 @@ VIPs stand for Voty Implementation Possibilities. They exist to document what `M
 - [VIP-002: Storage provider](/vips/VIP-002.md)
 - [VIP-003: Entry to organization](/vips/VIP-003.md)
 - [VIP-004: Proposal rights](/vips/VIP-004.md)
-- VIP-XXX: Voting power (WIP)
+- [VIP-005: Voting power](/vips/VIP-005.md)
 - VIP-XXX: Document extra data (WIP)
 - VIP-XXX: Proposal type (WIP)
 - VIP-XXX: Dynamic choices (WIP)
