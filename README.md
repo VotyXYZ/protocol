@@ -10,8 +10,8 @@ What is Voty Protocol?
 VIPs stand for Voty Implementation Possibilities. They exist to document what `MUST`, what `SHOULD` and what `MAY` be implemented by Voty-compatible software.
 
 - [VIP-000: Basic concepts](/vips/VIP-000.md)
-- [VIP-001: Registered DID systems](/vips/VIP-001.md)
-- [VIP-002: Registered storage providers](/vips/VIP-002.md)
+- [VIP-001: DID system](/vips/VIP-001.md)
+- [VIP-002: Storage provider](/vips/VIP-002.md)
 - [VIP-003: Entry to organization](/vips/VIP-003.md)
 - [VIP-004: Proposal rights](/vips/VIP-004.md)
 - VIP-XXX: Voting power (WIP)
