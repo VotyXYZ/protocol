@@ -19,3 +19,4 @@ VIPs stand for Voty Implementation Possibilities. They exist to document what `M
 - VIP-XXX: Proposal type (WIP)
 - VIP-XXX: Dynamic choices (WIP)
 - VIP-XXX: Document override (WIP)
+- VIP-XXX: Delegation (WIP)
