@@ -16,5 +16,5 @@ VIPs stand for Voty Implementation Possibilities. They exist to document what `M
 - VIP-XXX: Proposal type (WIP)
 - VIP-XXX: Proposing liberty limitation (WIP)
 - VIP-XXX: Voting power calculation (WIP)
-- VIP-XXX: Workgroups under organization (WIP)
+- VIP-XXX: Groups under organization (WIP)
 - VIP-XXX: Dynamic choices (WIP)
